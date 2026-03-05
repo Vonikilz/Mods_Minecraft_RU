@@ -1,0 +1,9 @@
+{
+  "item.volex_vitality_crystals.vitality_crystal": "Кристалл жизни",
+  "block.volex_vitality_crystals.vitality_crystal_cluster": "Кластер кристалла жизни",
+  "item.volex_vitality_crystals.life_berry": "Фрукт жизни",
+  "block.volex_vitality_crystals.life_berry_vines": "Лоза с фруктом жизни",
+  "item.volex_vitality_crystals.spectre_soul": "Спектральная душа",
+  "block.volex_vitality_crystals.spectre_soul_hanging": "Висячая спектральная душа",
+  "item_group.volex_vitality_crystals.volex_vitality_crystals_creative_tab": "Volex Vitality Crystals"
+}
