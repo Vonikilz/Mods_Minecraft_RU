@@ -159,11 +159,8 @@
 "curseofpandora.configuration.curseOfPrudenceDamageFactor": "Коэффициент урона Проклятия благоразумия за токен, 0.9 означает -10% урона за токен",
 "curseofpandora.configuration.curseOfPrudenceDamageFactor.tooltip": "По умолчанию: 0.5\n Диапазон: 0.0 ~ 1.0",
 "curseofpandora.configuration.curseOfPrudenceDuration": "Длительность действия токена Проклятия благоразумия в тиках",
-
 "curseofpandora.configuration.curseOfPrudenceDuration.tooltip": "По умолчанию: 40\n Диапазон: 1 ~ 200",
-
 "curseofpandora.configuration.curseOfPrudenceMaxDamage": "Максимальный урон Проклятия благоразумия в процентах от максимального здоровья цели",
-
 "curseofpandora.configuration.curseOfPrudenceMaxDamage.tooltip": "По умолчанию: 0,2\n Диапазон: 0,0 ~ 1,0",
   "curseofpandora.configuration.curseOfPrudenceMaxLevel": "Максимальный уровень жетона Проклятия благоразумия",
 "curseofpandora.configuration.curseOfPrudenceMaxLevel.tooltip": "По умолчанию: 20\n Диапазон: 1 ~ 100",
@@ -385,13 +382,9 @@
 "curseofpandora.tooltip.compat.el_aggrevate": "Снимает второе проклятие Проклятого кольца. Не стесняйтесь заводить друзей.",
 "curseofpandora.tooltip.compat.el_insomnia": "Снимает седьмое проклятие Проклятого кольца. Спокойной ночи.",
 "curseofpandora.tooltip.compat.seal_of_swords": "Получайте 1 %s за каждый %s уровень сложности игрока. Максимальное количество чар: %s %s",
-
 "curseofpandora.tooltip.compat.spell_singularity_0": "Когда ни одно из ваших снаряжений не имеет больше чар, чем ваше %s:",
-
 "curseofpandora.tooltip.compat.spell_singularity_1": "Получайте %s %s и %s %s за каждые %s",
-
 "curseofpandora.tooltip.curse.flesh": "Отменяет все бонусы к максимальному здоровью. Если игрок поддерживает уровень еды не менее %s в течение %s минут, даёт +%s%% к максимальному здоровью.",
-
 "curseofpandora.tooltip.curse.inertia": "Отменяет все остальные бонусы к скорости атаки, не связанные с инструментами. Ограничьте скорость атаки игрока до %s. Когда скорость атаки игрока составляет %s или Ниже, даёт %s%% бонуса к скорости атаки.",
 "curseofpandora.tooltip.curse.metabolism_1": "Увеличивает атаку и скорость на %s%% за каждый уровень еды выше %s.",
 "curseofpandora.tooltip.curse.metabolism_2": "Потеря %s%% атаки, скорости и скорости атаки за каждый уровень еды ниже %s.",
@@ -407,15 +400,10 @@
 "curseofpandora.tooltip.curse.tension_2": "Когда моб наносит вам урон, превышающий %s%% от вашего текущего здоровья, все ваши Жетоны ужаса разрушаются, и вы не можете наносить урон этой цели в течение %s секунд",
 "curseofpandora.tooltip.elemental.curse_1": "Получайте 1 единицу устойчивости к заклинаниям за каждую броню с проклятием.",
 "curseofpandora.tooltip.elemental.curse_2": "+%s%% магического урона за каждое проклятие на ваших доспехах",
-
 "curseofpandora.tooltip.elemental.earth": "Действует только при скорости атаки игрока %s или ниже",
-
 "curseofpandora.tooltip.elemental.waving": "Действует только когда игрок находится под водой или дождём",
-
 "curseofpandora.tooltip.elemental.wind_1": "Действует только когда игрок бежит",
-
 "curseofpandora.tooltip.elemental.wind_2": "Автоматически атаковать выбранные цели",
-
 "curseofpandora.tooltip.evil.awakening": "Когда вы убиваете врага, получаете %s%% магического урона и %s%% снижения урона на %s секунд, суммируясь до %s уровня",
   "curseofpandora.tooltip.evil.curse": "Магический урон по монстрам с уровнем здоровья %s%% или ниже увеличивается на %s%%",
 "curseofpandora.tooltip.evil.evoke": "При попадании по вам призывает Векса сражаться на вашей стороне. Каждый длится %s секунд. Время перезарядки: %s секунд",
@@ -426,43 +414,27 @@
 "curseofpandora.tooltip.hell.eye": "Когда вы наносите урон цели, она наносит небольшой магический урон всем монстрам вокруг неё в пределах %s блоков. Время восстановления: %s секунд.",
 "curseofpandora.tooltip.hell.reformation_1": "Вы невосприимчивы к урону от Пламени Души, но не защищены от этого эффекта, даже если на вас действует эффект Очищения.",
 "curseofpandora.tooltip.hell.reformation_2": "Когда вы наносите урон целям, находясь под действием Пламени Души, наносите цели с тем же уровнем и длительностью Пламени души",
-
 "curseofpandora.tooltip.hell.skull": "Когда вы наносите урон цели эффектом «Пламени души» длительностью не менее %s секунд, уровень эффекта увеличивается на 1, но не более вашего Индекса реальности.",
-
 "curseofpandora.tooltip.misc.bind": "Этот предмет нельзя снять.",
-
 "curseofpandora.tooltip.misc.drop": "Выпадает, когда %s убивает %s",
-
 "curseofpandora.tooltip.misc.drop_chance": "Выпадает, когда %s убивает %s, с вероятностью %s%%",
-
 "curseofpandora.tooltip.misc.effect_refresh": "Дает владельцу:",
-
 "curseofpandora.tooltip.misc.reality": "Когда ваш Индекс реальности не менее %s:",
 "curseofpandora.tooltip.shadow.consolidation": "При поражении целей эффектом тени, через %3$s секунды их тень рассеется и атакует окружающих мобов в пределах %1$s блоков, нанося %2$s%% от первоначального урона. Этот эффект может срабатывать каждые %4$s секунд.",
-
 "curseofpandora.tooltip.shadow.convergence": "Исцелите %s%% урона, нанесённого цели эффектом тени",
-
 "curseofpandora.tooltip.shadow.core_1": "Наложите эффект тени на атакуемую цель длительностью %s секунд в зависимости от вашего Индекса реальности.",
-
 "curseofpandora.tooltip.shadow.core_2": "Эффект тени уменьшит урон, наносимый мобам, на %s%%",
-
 "curseofpandora.tooltip.shadow.reformation_1": "+%s%% магического урона по цели эффектом тени",
 "curseofpandora.tooltip.shadow.reformation_2": "-%s%% физического урона от монстров с эффектом Тени",
 "curseofpandora.tooltip.shadow.void": "Нанесённый вами урон Тенью становится уроном Тенью в пустоту.",
 "curseofpandora.tooltip.weapon.abyssal_edge": "Удар Размахом призывает клыки Бездны. Удар Скрытности призывает их вокруг вас",
 "curseofpandora.tooltip.weapon.angelic_judgement": "Пустой удар выпускает 5 пронзающих магических клинков. В скрытном режиме клинки более концентрированы.",
   "curseofpandora.tooltip.weapon.cursed_karma": "Пустой удар выпускает взрывной проклятый пылающий клинок",
-
 "curseofpandora.tooltip.weapon.doom_star": "Пустой удар выпускает теневой клинок",
-
 "death.attack.abyssal_fang": "%s убит клыками Бездны",
-
 "death.attack.abyssal_fang.item": "%s убит клыками Бездны %s",
-
 "death.attack.abyssal_fang.player": "%s убит клыками Бездны %s",
-
 "death.attack.echo_abyssal_fang": "%s убит перегрузкой заклинаний",
-
 "death.attack.echo_abyssal_fang.item": "%s убит заклинанием Перегрузка",
 "death.attack.echo_abyssal_fang.player": "%s убит перегрузкой заклинаний",
 "death.attack.shadow_curse": "%s проклят тенью",
@@ -504,19 +476,12 @@
 "effect.curseofpandora.terrorized": "Запугано",
 "effect.curseofpandora.terrorized.desc": "Только для рендеринга. Показывает, если вы не можете нанести урон этой цели из-за эффекта Проклятие напряжения.",
   "effect.curseofpandora.terrorized.description": "Только для рендеринга. Отображается, если вы не можете нанести урон этой цели из-за эффекта «Проклятия напряжения».",
-
 "entity.curseofpandora.abyssal_fangs": "Клыки Бездны",
-
 "entity.curseofpandora.evil_spirit": "Злой дух",
-
 "entity.curseofpandora.wind_blade": "Лезвие Ветра",
-
 "item.curseofpandora.abyss_crystal": "Кристалл Бездны",
-
 "item.curseofpandora.abyssal_crown": "Корона Бездны",
-
 "item.curseofpandora.abyssal_edge": "Лезвие Бездны",
-
 "item.curseofpandora.abyssal_shell": "Панцирь Бездны",
 "item.curseofpandora.abyssal_treasure": "Сокровище Бездны",
 "item.curseofpandora.abyssal_watcher": "Наблюдатель Бездны",
