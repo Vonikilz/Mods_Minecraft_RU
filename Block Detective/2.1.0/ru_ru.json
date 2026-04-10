@@ -1,0 +1,17 @@
+{
+    "message.block_detective.hold_shift_extended.desc": "Удерживайте Shift для получения дополнительной информации",
+    "message.block_detective.hold_shift.desc": "[+] Shift",
+    "message.block_detective.yes": "Да",
+    "message.block_detective.no": "Нет",
+    "message.block_detective.destroy_time": "Время уничтожения",
+    "message.block_detective.explosion_resistance" : "Взрывостойкость",
+    "message.block_detective.jump_factor":  "Фактор прыжка",
+    "message.block_detective.speed_factor": "Фактор скорости",
+    "message.block_detective.light_level": "Уровень освящения",
+    "message.block_detective.friction": "Трение",
+    "message.block_detective.flammable": "Воспламеняющийся",
+    "message.block_detective.solid": "Твердый",
+    "message.block_detective.instrument": "Инструмент",
+    "message.block_detective.map_color": "Цвет на карте",
+    "message.block_detective.information": "Информация предоставлена: "
+}
