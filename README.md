@@ -1,4 +1,4 @@
-Перевод на русский модов для minecraft 1.21.1 NeoForge
+Перевод на русский модов для minecraft 1.21.1 NeoForge  
 В данный момент переведины следующие моды:
 - Better Weaponry 1.1.3
 - Block Detective 2.1.0
