@@ -11,10 +11,13 @@
 - Create Cobblemon Balls Overhaul 0.0.4
 - Create The Factory Must Grow 1.2.0
 - Curse of Pandora 3.0.7
-- Enigmatic Legacy+ 0.5.0 - 0.6.0
+- Enigmatic Legacy+ 0.5.0, 0.6.0, 1.0.0
 - Just Enough Archaeology 1.2.0
 - L2 Archery 3.0.3
 - Myths & Legends 0.0.8.5
-- Nautec 0.3.2
+- Nautec 0.3.2, 0.4.0
 - Schematic Energistics 1.5.0
 - Volex Vitality Crystals 1.0.1
+Перевод на русский модов для minecraft 1.20.1 NeoForge  
+В данный момент переведины следующие моды:
+- Mana and Artifice 3.1.11
