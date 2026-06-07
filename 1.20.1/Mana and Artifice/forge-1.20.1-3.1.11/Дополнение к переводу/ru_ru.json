@@ -1,5 +1,11 @@
 {
-"curios.identifier.spell": "Заклинание",
+	"mna:components/heal.desc.delay": "Задержка в секундах перед применением этого компонента.",
+	"mna:components/heal.desc.magnitude": "Сила исцеления. Не усиливается бонусами адского пламени.",
+	"mna:components/rift": "Разлом",
+	"mna:components/drown.desc.duration": "Продолжительность времени, в течение которого объект не может восстановить дыхание.",
+	"mna:components/drown.desc.damage": "Урон, наносимый цели, если она запыхалась на момент попадания.",
+	"mna:components/drown.desc.magnitude": "Количество выдыхаемого воздуха, удаляемое при попадании. Каждое попадание уменьшает общее количество выдыхаемого воздуха на 20%.",
+	"curios.identifier.spell": "Заклинание",
 "item.mna.recipe_copy_book": "Книга рецептов",
 "item.mna.recipe_copy_book.copy": "Копирование",
 "item.mna.recipe_copy_book.paste": "Восстановление",
@@ -899,5 +905,8 @@
 "mna:manaweave_patterns/infinity": "Бесконечность",
 "mna:manaweave_patterns/split_triangle": "Равнобедренный Треугольник",
 "mna:manaweave_patterns/knot2": "Аукторо",
+"mna:components/amplify_magic.desc.duration": "Как долго будет длиться эффект усиления",
+"mna:components/amplify_magic.desc.delay": "Задержка в секундах перед применением этого компонента.",
+"mna:components/amplify_magic.desc.magnitude": "Сила усиления. Восстановление маны увеличивается на 25% плюс 10% за каждое очко. Получаемый магический урон увеличивается на 10% за каждое очко.",
 "mna:dimension_current": "Текущее измерение"
 }
