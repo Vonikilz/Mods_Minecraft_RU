@@ -18,6 +18,7 @@
 - Nautec 0.3.2, 0.4.0
 - Schematic Energistics 1.5.0
 - Volex Vitality Crystals 1.0.1
+
 Перевод на русский модов для minecraft 1.20.1 NeoForge  
 В данный момент переведины следующие моды:
 - Mana and Artifice 3.1.11
